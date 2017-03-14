@@ -3,7 +3,7 @@
   "displayName": "vscode-ext-git-mergetool",
   "description": "Execute `git mergetool` command to open active file in external merge tool.",
   "version": "0.1.0",
-  "publisher": "hungvi",
+  "publisher": "hung-vi",
   "engines": {
     "vscode": "^1.10.0"
   },
