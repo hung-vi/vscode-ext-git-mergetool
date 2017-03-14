@@ -1,8 +1,8 @@
 {
-  "name": "vscode-ext-git-mergetool",
+  "name": "terminal-git-mergetool",
   "displayName": "vscode-ext-git-mergetool",
   "description": "Execute `git mergetool` command to open active file in external merge tool.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "hungvi",
   "engines": {
     "vscode": "^1.10.0"
@@ -22,7 +22,7 @@
     "commands": [
       {
         "command": "extension.gitMergeTool",
-        "title": "Git: mergetool"
+        "title": "Terminal: Git mergetool"
       }
     ]
   },
